@@ -1,0 +1,1 @@
+Using branches is a powerful and safe way for software engineers to collaborate on a project because it prevents many small issues. One issue it prevents is code conflicts, which is a common issue for coders when working on the same code.Branches would also help in clearly showing individual work, showing credibility and making it easier to spot small mistakes.
